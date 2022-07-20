@@ -13,7 +13,7 @@ This needs to be automated so that the infrastructure can be discarded as soon a
 
 ## Main Files: Project Structure
 
-  ```json
+  ```
   ├── README.md
   |
   ├── udagram-network-params.json       ==> parameters passed for the network cfn stack
